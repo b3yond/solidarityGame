@@ -4,6 +4,8 @@ This is an open source browser MMORPG.
 
 The players live in a cyberpunk dystopia, but slowly discover and build alternatives to wageslave life/a solidarity economy.
 
+## Contributing
+
 If you want to help developing, just write an e-mail to b3yond@riseup.net.
 I probably won't have time for this before November 2017, but if I can already collect names & e-mail adresses, that would help a lot.
 
