@@ -143,12 +143,13 @@ Punks are employed only per daily basis, at different times and for 4h each.
 * Control Ads: rate Ads if they are nice, sort out malicious ones.
 * Censorship: review posts on fuckbook, posts are double-checked
 * Security: Control the documents of people coming in (papers please?), beat them up if they aren't allowed to be here
-* Police: use surveillance, beat and lock up perpetrators of crimes
+* Police: use surveillance, beat and lock up perpetrators of crimes, undercover cops
 * Exec: move money from one investment to another to manage employees (production & infrastructure), research, and PR. Command Security.
 
 ### Sectors of Commons production
 
 * Producing Food: mix the right ingredients, so tasty Soylent/Beer/other food types emerge.
+* Gardening: take care of plants, viable ecosystem
 * Coding: arrange Code Snippets so they make sense, find bugs in code.
 * Server setup: execute the right commands to setup a server for different purposes. (Reality ftw!)
 * Server admin: scale services, click on wrong database entries.
@@ -170,9 +171,10 @@ Police control whether crime happens and pursue the perpetrators.
 People can also point out crime and get a small reward.
 
 * Shoplifting
-* Squatomg
+* Squatting
 * Being on the streets between 0200 and 0600
 * Strike
+* Stealing water & electricity
 * Wrongly review Ads or Posts
 * Hacking
 * fare-dodging
@@ -198,6 +200,7 @@ You can usually use existing infrastructure, until you build up own infrastructu
 
 * Transport: busses and trains, later self-driving
 * Internet: rented flats have internet, you can build Freifunk
+* water/electricity: public service, private service, tapping them
 * Logistics: pushcarts, trucks and trains, later self-driving
 * Shops: stores, black markets, parties
 * Delivery: delivery guys, drones
@@ -227,6 +230,14 @@ Internet
 * Tailored Ads (improving buying efficiency)
 * Fuckbook functions
 
+Ecology
+* Nuclear Energy
+* Fusion Reactor
+* Coal Energy
+* Solar Energy
+* Wind Energy
+* Hydroelectric Energy
+
 ### Commons Research Modules
 
 Software
@@ -252,6 +263,10 @@ Tools
 * Armor
 * Buidlings out of trash parts
 
+Ecology
+* Solar Energy
+* Wind Energy
+* Hydroelectric Energy
 
 ## Politics
 
@@ -279,6 +294,13 @@ Security Policy:
 * Outlaw or legalize technology
 * Outlaw or legalize research
 
+## City
+
+Should live in different classes, quarters...
+
+Bridges between Skyscrapers? How do the Skyscrapers look?
+
+Slums ftw, easier to squat, less police
 
 
 
