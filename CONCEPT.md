@@ -1,10 +1,19 @@
-# Solidarity Economy - as a game
+# The Concept
 
+This is an open source MMORPG.
+The players live in a cyberpunk dystopia, but slowly discover and build alternatives to wageslave life.
 
+## Interface
 
-# Gameplay
+The Interface would be a browser: 
+* one window displays the view of the player (ego-perspective, mini-games, information HUD)
+* one window displays a mastodon instance which displays the ingame fediverse, but also connects to IRL fediverses,
+* one window displays the fuckbook, ingame public social network + messenger.
+* other windows are used for links created in the game itself, maybe being displayed on wordpress instances.
 
-You are not limited to one of these areas of gameplay.
+## Gameplay
+
+Players are not limited to one of these areas of gameplay.
 
 Hacking
 * Science tree - developing FLOSS software for production, malware, defense, social/blogs, encryption, automation, cryptocoins, freifunk firmware
@@ -16,7 +25,7 @@ Producing
 * Build, purchase or give away machines for automation, so you can quit doing that bullshit and start with other stuff
 * How can you build networks which can sustain others?
 * Surplus has negative consequences?
-* How do you get a market?
+* How do you get a market? Shopping infrastructure
 
 Politics
 * Demonstrations build Pressure you can use as political currency
@@ -25,9 +34,10 @@ Politics
 * Withstand privatisations
 
 Mobility
-* Schwarzfahren
+* Fare dodging
 * Finally establishing own Infrastructures
 * Policy helps a lot
+* Automation introduces self-driving trains & cars at some point
 
 Housing
 * Rent a standardized container
@@ -71,7 +81,7 @@ Some are enemies, and if players spawn in them, they can choose to play villain 
 * You begin playing one day in corporate life
 * One day later you hear of collectives, somebody signs you up for the fediverse
 * You can start to partake in such a collective (will u lose your job one day?)
-* You probably need to become criminal to get money to start first collectives - squatting, shoplifting, fare-dodging, bank robbery
+* You probably need to become criminal to get money to start first collectives - squatting, shoplifting, fare-dodging, bank robbery, hacking
 
 # One day in the game
 
@@ -85,7 +95,17 @@ One day lasts half an hour or so ingame.
 * 0200 begin of curfew
 * 0600 end of curfew
 
-Every charakter should sleep around 4 hours a day, else they suffer. Players can read/chat in that time.
+Every charakter should sleep around 4 hours a day, else they suffer. 
+Players can read/chat in that time. There should be alarms to wake them up again.
+
+Modules of starting character days, randomly chosen:
+* riding public transport
+* working
+* going to the store
+* surfing fuckbook
+* sleeping
+
+If you aren't actively playing, your character just does his routine and sustains himself.
 
 # Sectors of Wageslave production
 
@@ -100,6 +120,8 @@ Each product has a different minigame. Wageslaves get employed permanently 8h, P
 * Writing: arrange nonsense texts so the right conjunctions meet up.
 * Busdriver: Drive from station to station, control tickets
 * Truckdriver: Drive from station to station, load and unload cargo
+* Delivery: bringing packages to houses
+* Vendor: putting goods in the shelves, selling the goods (ppl will be glad when this gets automated)
 * Control Ads: rate Ads if they are nice, sort out malicious ones.
 * Censorship: review posts on fuckbook, posts are double-checked
 * Security: Control the documents of people coming in (papers please?), beat them up if they aren't allowed to be here
@@ -118,13 +140,14 @@ Each product has a different minigame. Wageslaves get employed permanently 8h, P
 * Writing: arrange nonsense texts so the right conjunctions meet up.
 * Busdriver: Drive from station to station, control tickets
 * Truckdriver: Drive from station to station, load and unload cargo
+* Delivery: bringing packages to houses
 * Build: constructing buildings for private space or public usage
 * Bank robber: attack banks to steal money for projects to use
 * Distribute Flyers: stand in the city and give flyers to people
 
 # Crime
 
-Police control if crime happens and pursue the perpetrators.
+Police control whether crime happens and pursue the perpetrators.
 People can also point out crime and get a small reward.
 
 * Shoplift
@@ -140,7 +163,8 @@ People can also point out crime and get a small reward.
 * peacefully protest
 * violently protest
 * Drug consumption
-* and whatever else is outlawed or legalized.
+
+Policy can outlaw more actions, but can also legalize some.
 
 # Attributes
 
@@ -148,7 +172,7 @@ Do we need attributes or is gameplay solvable by skill and experience only? Whic
 Maybe attributes promote specialization and inhibit trying out different work experiences.
 
 Maybe attributes for fighting aren't a bad idea? You need to figure that out anyway, and it would give police a comprehensible advantage.
-Weapons would soon alter this too much, though.
+Weapons would soon become the deciding factor anyway, though.
 
 # Other Activities of Commoners
 
@@ -161,7 +185,25 @@ Organize Parties or Demonstrations
 
 You can usually use existing infrastructure, until you build up own infrastructure - but it's expensive and helps the enemy.
 
-* Transport: busses and self-driving trains
+* Transport: busses and trains, later self-driving
 * Internet: rented flats have internet, you can build Freifunk
-* Logistics: pushcarts, trucks and self-driving trains
-* Shops: stores, 
+* Logistics: pushcarts, trucks and trains, later self-driving
+* Shops: stores, black markets, parties
+* Delivery: delivery guys, drones
+
+# Policy Modules
+
+
+
+
+# Corporate Research Modules
+
+
+
+
+# Commons Research Modules
+
+
+
+
+
