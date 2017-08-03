@@ -3,7 +3,7 @@
 This is an open source MMORPG.
 The players live in a cyberpunk dystopia, but slowly discover and build alternatives to wageslave life.
 
-# Story
+## Story
 
 Late stage capitalism, everything is privatized. Cultural expression stagnates.
 
@@ -117,21 +117,25 @@ Maybe attributes promote specialization and inhibit trying out different work ex
 Maybe attributes for fighting aren't a bad idea? You need to figure that out anyway, and it would give police a comprehensible advantage.
 Weapons would soon become the deciding factor anyway, though.
 
-# Ingame economy
+## Ingame economy
 
 What is happening in the game and how can the players partake?
 
-### Sectors of Wageslave production
+### Sectors of Corporate production
 
-Each product has a different minigame. Wageslaves get employed permanently 8h, Punks only per daily basis, more flexible and 4h.
+Each product has a different minigame. 
+Wageslaves get employed permanently, and for 8h a day.
+Punks are employed only per daily basis, at different times and for 4h each.
+
 * Producing Food: mix the right ingredients, so tasty Soylent/Beer/other food types emerge.
-* Coding: arrange Code Snippets so they make sense, find bugs in code.
+* Coder: arrange Code Snippets so they make sense, find bugs in code.
 * Server setup: execute the right commands to setup a server in different environments. (Reality ftw!)
+* Server admin: scale services, click on wrong database entries.
 * Advertising: choose image snippets, place them nicely and think of a small slogan.
 * Doctor: treat illnesses.
 * Care: treat people who need your help.
 * Hardware: Completing puzzles of blueprints or small pieces to build functioning circuits -> new PCs, machines and weapons.
-* Writing: arrange nonsense texts so the right conjunctions meet up.
+* Journalist: arrange nonsense texts so the right conjunctions meet up.
 * Busdriver: Drive from station to station, control tickets
 * Truckdriver: Drive from station to station, load and unload cargo
 * Delivery: bringing packages to houses
@@ -148,10 +152,11 @@ Each product has a different minigame. Wageslaves get employed permanently 8h, P
 * Coding: arrange Code Snippets so they make sense, find bugs in code.
 * Server setup: execute the right commands to setup a server for different purposes. (Reality ftw!)
 * Server admin: scale services, click on wrong database entries.
+* Hacking: find vulnerable targets and use metaspoiled to exploit them. Ransomware, Botnets, Leaks, Sousveillance...
 * Doctor: treat illnesses.
 * Care: treat people who need your help.
 * Hardware: Completing puzzles of blueprints or small pieces to build functioning circuits -> new PCs, machines and weapons.
-* Writing: arrange nonsense texts so the right conjunctions meet up.
+* Journalism: arrange nonsense texts so the right conjunctions meet up.
 * Busdriver: Drive from station to station, control tickets
 * Truckdriver: Drive from station to station, load and unload cargo
 * Delivery: bringing packages to houses
@@ -164,12 +169,12 @@ Each product has a different minigame. Wageslaves get employed permanently 8h, P
 Police control whether crime happens and pursue the perpetrators.
 People can also point out crime and get a small reward.
 
-* Shoplift
-* Squat
+* Shoplifting
+* Squatomg
 * Being on the streets between 0200 and 0600
 * Strike
 * Wrongly review Ads or Posts
-* Hack
+* Hacking
 * fare-dodging
 * Bank robbery
 * Steal at work
@@ -197,22 +202,82 @@ You can usually use existing infrastructure, until you build up own infrastructu
 * Shops: stores, black markets, parties
 * Delivery: delivery guys, drones
 
-# Research
+## Research
 
 In which directions can the ingame society develop?
 
-### Policy Modules
-
-
-
-
 ### Corporate Research Modules
 
+Automation
+* Flying Drones
+* Self-Driving Cars
+* Self-Driving Trains
+* Food Machines
+* Vending Machines
+* Medical Bots
 
+Surveillance
+* Security Bots
+* Cameras
+* Tracking
+* Intercepting Communication
 
+Internet
+* Augmented Reality
+* Tailored Ads (improving buying efficiency)
+* Fuckbook functions
 
 ### Commons Research Modules
 
+Software
+* Metaspoiled
+* Freifunk Firmware
+* Fediverse functions
+* cryptoMSG
+* Blogs
+* Cryptocoin
+
+Hardware
+* open source PCs, Servers & Phones
+* Flying Drones
+* Self-Driving Cars
+* Self-Driving Trains
+* Food Machines
+* Vending Machines
+* Medical Bots
+
+Tools
+* Weapons
+* Pushcart
+* Armor
+* Buidlings out of trash parts
+
+
+## Politics
+
+The representative democracy can be more or less authoritarian.
+
+### Political System
+
+Multiple political parties are competing for positions of power.
+At best, momentary, spontaneous coalitions have to be forged to pass a law.
+There is no ingame tool for permanent coalitions.
+
+Everyone can candidate for an office, usually you found and join political parties though.
+Everyone except refugees have voting rights.
+
+### Policy Modules
+
+Economic Policy:
+* Shorter working hours
+* Universal Basic Income
+* Outlaw or legalize forms of production
+* Privatize or nationalize companies or infrastructures
+
+Security Policy:
+* Outlaw or legalize crimes
+* Outlaw or legalize technology
+* Outlaw or legalize research
 
 
 
