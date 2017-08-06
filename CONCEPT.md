@@ -139,7 +139,7 @@ Punks are employed only per daily basis, at different times and for 4h each.
 * Busdriver: Drive from station to station, control tickets
 * Truckdriver: Drive from station to station, load and unload cargo
 * Delivery: bringing packages to houses
-* Vendor: putting goods in the shelves, selling the goods (ppl will be glad when this gets automated)
+* Vendor: putting goods in the shelves, selling the goods (ppl will be glad when this gets automated), Vendors suffer from monopolization
 * Control Ads: rate Ads if they are nice, sort out malicious ones.
 * Censorship: review posts on fuckbook, posts are double-checked
 * Security: Control the documents of people coming in (papers please?), beat them up if they aren't allowed to be here
