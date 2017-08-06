@@ -190,7 +190,7 @@ Policy can outlaw more actions, but can also legalize some.
 
 ### Other Activities of Commoners
 
-Organize Parties or Demonstrations
+Organize Parties, Black Markets or Demonstrations
 * get a location
 * buy or steal necessary items
 * promote via flyers, emails, public posts
@@ -268,6 +268,7 @@ Ecology
 * Solar Energy
 * Wind Energy
 * Hydroelectric Energy
+* Synthetic Drugs (are sellable, improve individual performance and fun)
 
 ## Politics
 
