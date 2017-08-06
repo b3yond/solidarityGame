@@ -44,7 +44,7 @@ Modules of starting character days, randomly chosen:
 * riding public transport
 * working
 * going to the store
-* surfing fuckbook
+* surfing fakebook
 * sleeping
 
 If you aren't actively playing, your character just does his routine and sustains himself.
@@ -56,7 +56,7 @@ If you aren't actively playing, your character just does his routine and sustain
 The Interface would be a browser: 
 * one window displays the view of the player (ego-perspective, mini-games, information HUD)
 * one window displays a mastodon instance which displays the ingame fediverse, but also connects to IRL fediverses,
-* one window displays the fuckbook, ingame public social network + messenger.
+* one window displays the fakebook, ingame public social network + messenger.
 * other windows are used for links created in the game itself, maybe being displayed on wordpress instances.
 
 ### Gameplay
@@ -72,7 +72,7 @@ Producing
 * Something not entirely boring maybe? Minigames where you can get better with experience, but which are also diverse
 * Build, purchase or give away machines for automation, so you can quit doing that bullshit and start with other stuff
 * How can you build networks which can sustain others?
-* Surplus has negative consequences?
+* Surplus has negative consequences? Your avatar gets uglier? lol. taxes?
 * How do you get a market? Shopping infrastructure
 
 Politics
@@ -141,7 +141,7 @@ Punks are employed only per daily basis, at different times and for 4h each.
 * Delivery: bringing packages to houses
 * Vendor: putting goods in the shelves, selling the goods (ppl will be glad when this gets automated)
 * Control Ads: rate Ads if they are nice, sort out malicious ones.
-* Censorship: review posts on fuckbook, posts are double-checked
+* Censorship: review posts on fakebook, posts are double-checked
 * Security: Control the documents of people coming in (papers please?), beat them up if they aren't allowed to be here
 * Police: use surveillance, beat and lock up perpetrators of crimes, undercover cops
 * Exec: move money from one investment to another to manage employees (production & infrastructure), research, and PR. Command Security.
@@ -184,6 +184,7 @@ People can also point out crime and get a small reward.
 * peacefully protest
 * violently protest
 * Drug consumption
+* using cryptocoins
 
 Policy can outlaw more actions, but can also legalize some.
 
@@ -288,6 +289,8 @@ Economic Policy:
 * Universal Basic Income
 * Outlaw or legalize forms of production
 * Privatize or nationalize companies or infrastructures
+* Give subsidies for certain jobs
+* receive taxes
 
 Security Policy:
 * Outlaw or legalize crimes
