@@ -114,8 +114,9 @@ Combat
 Do we need attributes or is gameplay solvable by skill and experience only? Which is more fun?
 Maybe attributes promote specialization and inhibit trying out different work experiences.
 
-Maybe attributes for fighting aren't a bad idea? You need to figure that out anyway, and it would give police a comprehensible advantage.
-Weapons would soon become the deciding factor anyway, though.
+Everyone can take 2-3 hits until they go down. Depending on the weapon, they die or go only unconscious for 1 hour.
+
+The less you slept last night, the slower you move. The more drugs you take, the faster you move.
 
 ## Ingame economy
 
@@ -139,6 +140,7 @@ Punks are employed only per daily basis, at different times and for 4h each.
 * Busdriver: Drive from station to station, control tickets
 * Truckdriver: Drive from station to station, load and unload cargo
 * Delivery: bringing packages to houses
+* Tailor: refine trash to cloth, puzzle it to more and more complicated clothing
 * Vendor: putting goods in the shelves, selling the goods (ppl will be glad when this gets automated), Vendors suffer from monopolization
 * Control Ads: rate Ads if they are nice, sort out malicious ones.
 * Censorship: review posts on fakebook, posts are double-checked
@@ -161,6 +163,7 @@ Punks are employed only per daily basis, at different times and for 4h each.
 * Busdriver: Drive from station to station, control tickets
 * Truckdriver: Drive from station to station, load and unload cargo
 * Delivery: bringing packages to houses
+* Tailor: refine mushrooms to cloth, puzzle it to more and more complicated clothing
 * Build: constructing buildings for private space or public usage
 * Bank robber: attack banks to steal money for projects to use
 * Distribute Flyers: stand in the city and give flyers to people
@@ -210,6 +213,9 @@ You can usually use existing infrastructure, until you build up own infrastructu
 
 In which directions can the ingame society develop?
 
+When a society/company researches a certain module, a video explaining the progress is sent to each fakebook user.
+
+
 ### Corporate Research Modules
 
 Automation
@@ -219,6 +225,7 @@ Automation
 * Food Machines
 * Vending Machines
 * Medical Bots
+* Physical Augmentations?
 
 Surveillance
 * Security Bots
@@ -229,7 +236,7 @@ Surveillance
 Internet
 * Augmented Reality
 * Tailored Ads (improving buying efficiency)
-* Fuckbook functions
+* Fakebook functions
 
 Ecology
 * Nuclear Energy
@@ -238,6 +245,7 @@ Ecology
 * Solar Energy
 * Wind Energy
 * Hydroelectric Energy
+* Bioengineering
 
 ### Commons Research Modules
 
@@ -257,22 +265,27 @@ Hardware
 * Food Machines
 * Vending Machines
 * Medical Bots
+* Physical augmentations?
 
 Tools
 * Weapons
 * Pushcart
 * Armor
-* Buidlings out of trash parts
+* Buidlings out of mushrooms
 
 Ecology
 * Solar Energy
 * Wind Energy
 * Hydroelectric Energy
 * Synthetic Drugs (are sellable, improve individual performance and fun)
+* Bioengineering (use fast evolution to create more species diversity)
+
 
 ## Politics
 
 The representative democracy can be more or less authoritarian.
+
+When a policy is introduced, a video explaining the progress is sent to each fakebook user.
 
 ### Political System
 
@@ -299,14 +312,157 @@ Security Policy:
 * Outlaw or legalize technology
 * Outlaw or legalize research
 
-## City
+## The Game World
 
-Should live in different classes, quarters...
+Cyberpunk dystopias can take many forms.
 
-Bridges between Skyscrapers? How do the Skyscrapers look?
+Deus Ex - Human Revolution is so interesting, because they combined 3 ingredients in the world building:
+Cyberpunk, Renaissance, and the Icarus myth.
+(Source: https://www.develop-online.net/interview/the-cyberpunk-renaissance-designing-deus-ex-with-jonathan-jacques-bellet-te/0221492 )
 
-Slums ftw, easier to squat, less police
+Combining very different things to fit together seems like a good idea to build an interesting world.
 
+The myth could be transformation.
+How do we evolve?
+How can new structures of power and production take their space?
+What does this do to us, and how do people in different contexts behave differently?
 
+Cyberpunk is a nice given, too, I think, because its popularity rises, proportionally to its realness.
+It fits very well to the criminal outcast topic, the technology factor, the mega corps, the Commoner's DIY culture.
+It provides very nice aesthetics, too, especially for the urban part and the contingency of corporeality.
+
+Mushrooms are one of the most used organic ingredients since the big Climate Crisis.
+Mushrooms & Algae are the only ingredients left for food, often used for fabric, mattresses, and other organic products.
+Some mushrooms have exceeded their earlier limits of growth a lot, when so much dead organic material lay around for them to exploit.
+Since then some very big exemplars are standing around in nature.
+Mushrooms and Algae could be one day the foundation of a new, directed evolution, which could ensure a new biodiversity.
+
+Feudalism would be a nice driver for clothing and style.
+Also as the hierarchies, the boundaries, the communities have some feudal implications (especially the rurals).
+Habermas talks about refeudalization in context of education chances - which are inherited more and more.
+Intellectual Wageslaves (Downtown Jobs) earn more than Factory Wageslaves, and they earn more than Punks.
+
+The world is separated in several areas.
+* Downtown: big skyscrapers, high tech, shopping centers, banks, offices, hospitals, penthouses, coffin hotels.
+* Industry: factories, stores, many workplaces, coffin hotels.
+* Slums: containers-4-rent, night clubs, stores, some old factory halls.
+* Rural: each village has a bus station, and someone usually sells food.
+
+It would be nice if people were required to travel a lot between them.
+
+#### Downtown
+
+Skyscrapers have bridges between them. They look a bit like strongholds maybe? Arrow slit windows?
+At the top are the penthouses, where the Execs reside. Each Exec owns a Skyscraper.
+Offices for non-industrial jobs are in the Skyscrapers:
+IT, journalism, marketing, censors, everything which is just sitting in front of a screen. Also Doctors and Nurses.
+
+For buying rare items, you have to go to Downtown's shopping centers.
+Security is tight, many people are here. Aesthetics resemble churches.
+
+Living Costs:
+* A coffin hotel costs 100€ a night.
+* Food costs 13€ a day.
+
+#### Industry
+
+Factories are located here. Some of them are abandoned.
+
+Most of the jobs are here.
+
+Living Costs:
+* A coffin hotel costs 100€ a night.
+* Food costs 7€ a day.
+
+#### Slums
+
+The factories in the Slums are all abandoned.
+
+The slums are mostly for dwelling, containers-4-rent make up most of the buildings.
+Stores supply the inhabitants, night clubs provide fun.
+
+There is not as much police here, so it's easier to squat here than in other areas.
+
+Living Costs:
+* A container-4-rent costs 2000€ a month.
+* Food costs 7€ a day.
+
+#### Rural
+
+Prevalence of using Mushrooms as food, building, and clothing material.
+
+The people are living in small huts, a mixture of them being quite old, some built off trash, some off mushrooms.
+
+Each village has a bus station, but not much more. Someone sells food.
+
+Living Costs:
+* You can buy a hut for 2500€?/space for 1 person, they are not rentable
+* You can buy space for building a hut 250€/space for 1 person
+* Food costs 13€ a day.
+
+### Feudalism
+
+Feudalist aesthetics could be used to enrich cyberpunk, It doesn't make that much sense to render feudal society to the game, though.
+
+Clothing
+* Hierarchy shows itself in Clothing
+* Rich or powerful people dare to wear more colorful clothing, modern aristocrats
+* Educated people are required to wear appropriate clothing (which poor can't afford) for work
+* generally: wide clothes with lots of drapes, belts, bags. look at aristocrat clothes!
+* Police armor looks like knight's armor
+* Christian mindset experiences renaissance with Climate Catastrophe. Some wear clerical tonsures.
+
+### Climate Catastrophe
+
+The bees died out, something with pesticides killed most of the surviving plants.
+Soy deliveries died out, animals couldn't be fed anymore.
+Hunting lived up for a short time, until wildlife was pretty much extinct.
+The sea collapsed from trash, but several Algae species could be saved.
+Algae are cultivated in artificial tanks.
+Mushrooms are dwelling on the dead organic matter everywhere, and on dead algae.
+
+Mushrooms and Algae are next to steel and plastic the mostly used ingredients for everything.
+Animals are largely extinct, the last species live off mankind's trash and can not to be domesticated.
+
+Some people believe that our sins are responsible for the Climate Catastrophe and turn to god.
+
+### Characters
+
+#### Media Speaker
+
+Announces changes to the public.
+Generally is defending the status quo.
+
+#### Punk Band
+
+Sings Songs against the Police which sell quite well.
+Expensive to employ, but enhances every demonstration/party.
+
+#### Preacher
+
+Makes humanity responsible for Climate Crisis - punishment by god.
+Promotes that we need to turn to god - hard work can resolve our sins.
+Many uneducated are following him.
+
+## Criticism
+
+### Why do I play?
+
+There is not a real goal in the game, not a real motivation yet.
+Is the fate of the character and their society interesting enough? 
+depends on the inscenation maybe.
+
+If Transformation of Capitalism is the goal - how can 
+1. the single player have influence on this goal?
+2. have not enough influence to frustrate other players?
+
+Motivation arises from 
+1. the interesting world
+2. the goal
+3. or the way of reaching it.
+
+Everything else is related to this: subsystems of the game, roles, classes, minigames.
+
+### yet to conceptualize
 
 universal snitch system
