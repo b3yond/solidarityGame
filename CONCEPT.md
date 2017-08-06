@@ -291,6 +291,7 @@ Economic Policy:
 * Privatize or nationalize companies or infrastructures
 * Give subsidies for certain jobs
 * receive taxes
+* unemployement benefits
 
 Security Policy:
 * Outlaw or legalize crimes
@@ -307,3 +308,4 @@ Slums ftw, easier to squat, less police
 
 
 
+universal snitch system
