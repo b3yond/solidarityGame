@@ -409,6 +409,7 @@ Clothing
 * Rich or powerful people dare to wear more colorful clothing, modern aristocrats
 * Educated people are required to wear appropriate clothing (which poor can't afford) for work
 * generally: wide clothes with lots of drapes, belts, bags. look at aristocrat clothes!
+* Cloaks!
 * Police armor looks like knight's armor
 * Christian mindset experiences renaissance with Climate Catastrophe. Some wear clerical tonsures.
 
