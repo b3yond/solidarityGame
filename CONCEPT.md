@@ -204,7 +204,7 @@ You can usually use existing infrastructure, until you build up own infrastructu
 
 * Transport: busses and trains, later self-driving
 * Internet: rented flats have internet, you can build Freifunk
-* water/electricity: public service, private service, tapping them
+* water/electricity: public service, private service, tapping them, building wells and renewable energy
 * Logistics: pushcarts, trucks and trains, later self-driving
 * Shops: stores, black markets, parties
 * Delivery: delivery guys, drones
@@ -293,8 +293,23 @@ Multiple political parties are competing for positions of power.
 At best, momentary, spontaneous coalitions have to be forged to pass a law.
 There is no ingame tool for permanent coalitions.
 
+senators can introduce laws and have additional rights.
+the parliament has to approve each law. 
+24h pass until the vote takes place.
+
 Everyone can candidate for an office, usually you found and join political parties though.
+To rise inside a political party, you have to win street credibility through activism.
 Everyone except refugees have voting rights.
+
+3 senators
+* have initiative right, can propose policy modules
+* hawk can command police
+* parrot can speak to all citizens on fakebook
+* raven can absolve crimes, immunize people, and issue an arrest warrant
+
+parlament
+* 50 members
+* no obligatory compliance / Koalitionszwang
 
 ### Policy Modules
 
@@ -306,11 +321,36 @@ Economic Policy:
 * Give subsidies for certain jobs
 * receive taxes
 * unemployement benefits
+* legalize cryptocoin
 
 Security Policy:
 * Outlaw or legalize crimes
 * Outlaw or legalize technology
 * Outlaw or legalize research
+
+### Standard Political Parties
+
+Labour Party
+* Want full employment - we need to finance work places
+* Subsidize Companies (Weak)
+* Progress is not bad
+* More taxes!
+* Protests and Strikes are important
+
+Christian Movement
+* Technology is evil
+* Strong State, Security
+* Subsidize Companies
+* Strikes and Protests are bad
+
+Liberal Democrats
+* Progress is good
+* Capitalists need protection
+* Privatize everything
+* Leeegalize (Security)
+* Small State
+* Workers are not needed when we have progress
+* Don't Subsidize Companies
 
 ## The Game World
 
@@ -338,9 +378,10 @@ Since then some very big exemplars are standing around in nature.
 Mushrooms and Algae could be one day the foundation of a new, directed evolution, which could ensure a new biodiversity.
 
 Feudalism would be a nice driver for clothing and style.
-Also as the hierarchies, the boundaries, the communities have some feudal implications (especially the rurals).
+Also the hierarchies, the boundaries, the communities have some feudal implications (especially the rurals).
 Habermas talks about refeudalization in context of education chances - which are inherited more and more.
 Intellectual Wageslaves (Downtown Jobs) earn more than Factory Wageslaves, and they earn more than Punks.
+Parcellation of Souvereignty - different Polices in different quarters?
 
 The world is separated in several areas.
 * Downtown: big skyscrapers, high tech, shopping centers, banks, offices, hospitals, penthouses, coffin hotels.
@@ -382,6 +423,7 @@ The slums are mostly for dwelling, containers-4-rent make up most of the buildin
 Stores supply the inhabitants, night clubs provide fun.
 
 There is not as much police here, so it's easier to squat here than in other areas.
+(Except the players want to camp in the Slums ofc)
 
 Living Costs:
 * A container-4-rent costs 2000€ a month.
@@ -413,7 +455,7 @@ Clothing
 * Police armor looks like knight's armor
 * Christian mindset experiences renaissance with Climate Catastrophe. Some wear clerical tonsures.
 
-### Climate Catastrophe
+### Mushrooms and the Climate Catastrophe
 
 The bees died out, something with pesticides killed most of the surviving plants.
 Soy deliveries died out, animals couldn't be fed anymore.
@@ -423,9 +465,15 @@ Algae are cultivated in artificial tanks.
 Mushrooms are dwelling on the dead organic matter everywhere, and on dead algae.
 
 Mushrooms and Algae are next to steel and plastic the mostly used ingredients for everything.
-Animals are largely extinct, the last species live off mankind's trash and can not to be domesticated.
+Animals are largely extinct, the last species live off mankind's trash and can not be domesticated.
 
 Some people believe that our sins are responsible for the Climate Catastrophe and turn to god.
+
+There are several kinds of mushrooms, some are very stable, some formable (for fabric), some tasty.
+Buildings are built by putting spores to a foundation, adding nutrition - and waiting.
+More kinds of mushrooms can be cultivated.
+
+All in all there is no lack of "industrial" resources, but rather of organic resources.
 
 ### Characters
 
@@ -444,6 +492,48 @@ Expensive to employ, but enhances every demonstration/party.
 Makes humanity responsible for Climate Crisis - punishment by god.
 Promotes that we need to turn to god - hard work can resolve our sins.
 Many uneducated are following him.
+
+## NPCs
+
+### Dialogue
+
+According to the NPCs ingame functions, you have several dialogue options.
+
+Politicians can be bribed, threatened, and convinced.
+
+Workers can be convinced, you can also work with them and be friends and stuff.
+
+You can bond with people if you share a Hobby or smth.
+
+You can rant with neighbours about the others.
+
+You can discuss with believers.
+
+### Relationships
+
+Relationships are designated by Fakebook Friends.
+
+These depend on where your life modules lie and with which people they coincide.
+
+### Life Modules / Hobbies
+
+* lives in ...
+* Occupation at ...
+* Night Club
+* Politician
+* Believer
+* Member in a Party
+* Posts at Fakebook
+* Loves Punk Concerts
+* Drug usage
+
+### Opinions
+
+* Believe in god
+* Vote for a party
+* Like a certain corporation's product
+* Have diverse political opinions about single topics
+* Like a character
 
 ## Criticism
 
@@ -467,3 +557,7 @@ Everything else is related to this: subsystems of the game, roles, classes, mini
 ### yet to conceptualize
 
 universal snitch system
+
+Teamwork in minigames
+
+can players participate in religion?
