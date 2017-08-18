@@ -37,17 +37,12 @@ One day lasts half an hour or so ingame.
 * 0200 begin of curfew
 * 0600 end of curfew
 
-Every charakter should sleep around 4 hours a day, else they suffer. 
+Every charakter should sleep around 4-10 hours a day, else they suffer.
+The longer you sleep, the faster you can move by day.
 Players can read/chat in that time. There should be alarms to wake them up again.
 
-Modules of starting character days, randomly chosen:
-* riding public transport
-* working
-* going to the store
-* surfing fakebook
-* sleeping
-
-If you aren't actively playing, your character just does his routine and sustains himself.
+If you aren't actively playing, your character just does their routine and sustains themself.
+They work just enough to pay their rent, not a bit more.
 
 # How you play
 
@@ -71,7 +66,7 @@ Hacking
 Producing
 * Something not entirely boring maybe? Minigames where you can get better with experience, but which are also diverse
 * Build, purchase or give away machines for automation, so you can quit doing that bullshit and start with other stuff
-* How can you build networks which can sustain others?
+* you can build networks which can sustain other new Commons projects. Just connect with people over mastodon.
 * Surplus has negative consequences? Your avatar gets uglier? lol. taxes?
 * How do you get a market? Shopping infrastructure
 
@@ -79,7 +74,6 @@ Politics
 * Demonstrations build Pressure you can use as political currency
 * Network of Decision Makers you need to influence and where you can get to
 * Modules of Policy which help Commoners
-* Withstand privatisations
 
 Mobility
 * Fare dodging
@@ -89,6 +83,8 @@ Mobility
 
 Housing
 * Rent a standardized container
+* Sleep on Coffin Hotels (expensive, but flexible)
+* Execs own Penthouses
 * Alternative living projects
 * Squats
 * Wohnbaugenossenschaften
@@ -103,7 +99,6 @@ Activism
 Combat
 * Nazis
 * Police
-* Machos?
 * Other forms of crime, which sink with further game progress?
 * Helping refugees flee?
 * Corporate Security Forces
@@ -567,10 +562,12 @@ Motivation arises from
 
 Everything else is related to this: subsystems of the game, roles, classes, minigames.
 
-### yet to conceptualize
+### Ideas
 
 universal snitch system
 
 Teamwork in minigames
 
 can players participate in religion?
+
+Refugees
