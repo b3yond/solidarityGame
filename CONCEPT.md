@@ -306,6 +306,9 @@ Everyone except refugees have voting rights.
 * hawk can command police
 * parrot can speak to all citizens on fakebook
 * raven can absolve crimes, immunize people, and issue an arrest warrant
+* Only parlamentarians can become senators
+* Senators need 2/3 by the parliament to get elected and tend to be moderate and compromising.
+* If parliament can't consent on new Senators, the old ones persist.
 
 parlament
 * 50 members
@@ -329,6 +332,15 @@ Security Policy:
 * Outlaw or legalize research
 
 ### Standard Political Parties
+
+The idea is that successful and well organized players form a forth party.
+This party can then ally alternately with the libdems and labour to pass policy.
+Usually, on one topic, one traditional party is against it, another in favour of it, and one doesn't have a strong stance.
+Execs can start bribing or influencing the party with the weak stance to pass policy.
+(This is especially useful if Commoners are politically weak)
+
+Another interesting strategy would be to infiltrate the ChristM and use their votes to pass policy.
+Funny way to get a Senator position.
 
 Labour Party
 * Want full employment - we need to finance work places
