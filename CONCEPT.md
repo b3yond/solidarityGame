@@ -335,6 +335,7 @@ Security Policy:
 
 The idea is that successful and well organized players form a forth party.
 This party can then ally alternately with the libdems and labour to pass policy.
+
 Usually, on one topic, one traditional party is against it, another in favour of it, and one doesn't have a strong stance.
 Execs can start bribing or influencing the party with the weak stance to pass policy.
 (This is especially useful if Commoners are politically weak)
