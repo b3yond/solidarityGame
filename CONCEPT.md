@@ -7,7 +7,7 @@ The players live in a cyberpunk dystopia, but slowly discover and build alternat
 
 Late stage capitalism, everything is privatized. Cultural expression stagnates.
 
-Beginning Classes:
+Classes:
 * Wage Slaves: Most people are Wageslaves and do unnecessary bullshit for little money. Don't have much free time.
 * Unemployed Punks: don't get enough subsidies to pay the rent, have to do small daily jobs or become a squatter to survive
 * Corp Execs: plan the production of Wageslaves (keep as many as possible busy to get gov subsidies), develop corporate science (not sharable with other Execs)
@@ -15,10 +15,14 @@ Beginning Classes:
 * Politicians: Make policy as you wish - you can help Commoners, but you can also take their rights away. Give public jobs to Execs, or Commoners.
 * Commoners: Not a starting class, everyone starts as one of the other 4.
 
-The people already exist, have attributes, property, identity, running costs, and a daily life - Players randomly take over their lives when they spawn.
-Every person has a few friends, it varies and changes dynamically for NPCs. players only start as characters with at least one player friend.
-Only players can start alternative projects, but NPCs can join them and passively take part.
-Some are enemies, and if players spawn in them, they can choose to play villain or help the Commoners.
+The people already exist, have attributes, property, identity, running costs,
+and a daily life - Players randomly take over their lives when they spawn.
+Every person has a few friends, it varies and changes dynamically for NPCs.
+players only start as characters with at least one player friend.
+
+Only players can start alternative projects, but NPCs can join them and
+passively take part. Some are "enemies", and if players spawn in them, they
+can choose to play villain or help the Commoners.
 
 * You begin playing one day in corporate life
 * One day later you hear of collectives, somebody signs you up for the fediverse
@@ -37,12 +41,12 @@ One day lasts half an hour or so ingame.
 * 0200 begin of curfew
 * 0600 end of curfew
 
-Every charakter should sleep around 4-10 hours a day, else they suffer.
-The longer you sleep, the faster you can move by day.
-Players can read/chat in that time. There should be alarms to wake them up again.
+Every charakter should sleep around 4-10 hours a day, else they suffer. The
+longer you sleep, the faster you can move by day. Players can read/chat in
+that time. There should be alarms to wake them up again.
 
-If you aren't actively playing, your character just does their routine and sustains themself.
-They work just enough to pay their rent, not a bit more.
+If you aren't actively playing, your character just does their routine and
+sustains themself. They work just enough to pay their rent, not a bit more.
 
 # How you play
 
@@ -67,6 +71,7 @@ Producing
 * Something not entirely boring maybe? Minigames where you can get better with experience, but which are also diverse
 * Build, purchase or give away machines for automation, so you can quit doing that bullshit and start with other stuff
 * you can build networks which can sustain other new Commons projects. Just connect with people over mastodon.
+* Commoners Production minigames could include cooperation elements.
 * Surplus has negative consequences? Your avatar gets uglier? lol. taxes?
 * How do you get a market? Shopping infrastructure
 
@@ -106,12 +111,15 @@ Combat
 
 ### Attributes
 
-Do we need attributes or is gameplay solvable by skill and experience only? Which is more fun?
-Maybe attributes promote specialization and inhibit trying out different work experiences.
+Do we need attributes or is gameplay solvable by skill and experience only?
+Which is more fun. Maybe attributes promote specialization and inhibit trying
+out different work experiences.
 
-Everyone can take 2-3 hits until they go down. Depending on the weapon, they die or go only unconscious for 1 hour.
+Everyone can take 2-3 hits until they go down. Depending on the weapon, they
+die or go only unconscious for 1 hour.
 
-The less you slept last night, the slower you move. The more drugs you take, the faster you move.
+The less you slept last night, the slower you move. The more drugs you take,
+the faster you move.
 
 ## Ingame economy
 
@@ -119,9 +127,9 @@ What is happening in the game and how can the players partake?
 
 ### Sectors of Corporate production
 
-Each product has a different minigame. 
-Wageslaves get employed permanently, and for 8h a day.
-Punks are employed only per daily basis, at different times and for 4h each.
+Each product has a different minigame. Wageslaves get employed permanently,
+and for 8h a day. Punks are employed only per daily basis, at different times
+and for 4h each.
 
 * Producing Food: mix the right ingredients, so tasty Soylent/Beer/other food types emerge.
 * Coder: arrange Code Snippets so they make sense, find bugs in code.
@@ -161,12 +169,12 @@ Punks are employed only per daily basis, at different times and for 4h each.
 * Tailor: refine mushrooms to cloth, puzzle it to more and more complicated clothing
 * Build: constructing buildings for private space or public usage
 * Bank robber: attack banks to steal money for projects to use
-* Distribute Flyers: stand in the city and give flyers to people
+* Distribute Flyers: walk through the city and give flyers to people
 
 ### Crime
 
-Police control whether crime happens and pursue the perpetrators.
-People can also point out crime and get a small reward.
+Police control whether crime happens and pursue the perpetrators. People can
+also point out crime and get a small reward.
 
 * Shoplifting
 * Squatting
@@ -195,7 +203,8 @@ Organize Parties, Black Markets or Demonstrations
 
 ### Infrastructure
 
-You can usually use existing infrastructure, until you build up own infrastructure - but it's expensive and helps the enemy.
+You can usually use existing infrastructure, until you build up own
+infrastructure - but it's expensive and helps the enemy.
 
 * Transport: busses and trains, later self-driving
 * Internet: rented flats have internet, you can build Freifunk
@@ -208,7 +217,8 @@ You can usually use existing infrastructure, until you build up own infrastructu
 
 In which directions can the ingame society develop?
 
-When a society/company researches a certain module, a video explaining the progress is sent to each fakebook user.
+When a society/company researches a certain module, a video explaining the
+progress is sent to each fakebook user.
 
 
 ### Corporate Research Modules
@@ -251,6 +261,7 @@ Software
 * cryptoMSG
 * Blogs
 * Cryptocoin
+* A Game to promote solidary economies (very meta, but why not?)
 
 Hardware
 * open source PCs, Servers & Phones
@@ -280,21 +291,21 @@ Ecology
 
 The representative democracy can be more or less authoritarian.
 
-When a policy is introduced, a video explaining the progress is sent to each fakebook user.
+When a policy is introduced, a video explaining the progress is sent to each
+fakebook user.
 
 ### Political System
 
-Multiple political parties are competing for positions of power.
-At best, momentary, spontaneous coalitions have to be forged to pass a law.
-There is no ingame tool for permanent coalitions.
+Multiple political parties are competing for positions of power. At best,
+momentary, spontaneous coalitions have to be forged to pass a law. There is no
+ingame tool for permanent coalitions.
 
-senators can introduce laws and have additional rights.
-the parliament has to approve each law. 
-24h pass until the vote takes place.
+senators can introduce laws and have additional rights. the parliament has to
+approve each law. 24h pass until the vote takes place.
 
-Everyone can candidate for an office, usually you found and join political parties though.
-To rise inside a political party, you have to win street credibility through activism.
-Everyone except refugees have voting rights.
+Everyone can candidate for an office, usually you found and join political
+parties though. To rise inside a political party, you have to win street
+credibility through activism. Everyone except refugees have voting rights.
 
 3 senators
 * have initiative right, can propose policy modules
@@ -305,9 +316,10 @@ Everyone except refugees have voting rights.
 * Senators need 2/3 by the parliament to get elected and tend to be moderate and compromising.
 * If parliament can't consent on new Senators, the old ones persist.
 
-parlament
+parliament
 * 50 members
-* no obligatory compliance / Koalitionszwang
+* no obligatory compliance (Koalitionszwang)
+* politicians get diets, a little higher than wage slaves' wage
 
 ### Policy Modules
 
@@ -329,14 +341,16 @@ Security Policy:
 ### Standard Political Parties
 
 The idea is that successful and well organized players form a forth party.
-This party can then ally alternately with the libdems and labour to pass policy.
+This party can then ally alternately with the libdems and labour to pass
+policy.
 
-Usually, on one topic, one traditional party is against it, another in favour of it, and one doesn't have a strong stance.
-Execs can start bribing or influencing the party with the weak stance to pass policy.
-(This is especially useful if Commoners are politically weak)
+Usually, on one topic, one traditional party is against it, another in favour
+of it, and one doesn't have a strong stance. Execs can start bribing or
+influencing the party with the weak stance to pass policy. (This is especially
+useful if Commoners are politically weak)
 
-Another interesting strategy would be to infiltrate the ChristM and use their votes to pass policy.
-Funny way to get a Senator position.
+Another interesting strategy would be to infiltrate the ChristM and use their
+votes to pass policy. Funny way to get a Senator position.
 
 Labour Party
 * Want full employment - we need to finance work places
@@ -370,25 +384,29 @@ Cyberpunk, Renaissance, and the Icarus myth.
 
 Combining very different things to fit together seems like a good idea to build an interesting world.
 
-The myth could be transformation.
-How do we evolve?
-How can new structures of power and production take their space?
-What does this do to us, and how do people in different contexts behave differently?
+The myth could be transformation. How do we evolve. How can new structures of
+power and production take their space. What does this do to us, and how do
+people in different contexts behave differently?
 
-Cyberpunk is a nice given, too, I think, because its popularity rises, proportionally to its realness.
-It fits very well to the criminal outcast topic, the technology factor, the mega corps, the Commoner's DIY culture.
-It provides very nice aesthetics, too, especially for the urban part and the contingency of corporeality.
+Cyberpunk is a nice given, too, I think, because its popularity rises,
+proportionally to its realness. It fits very well to the criminal outcast
+topic, the technology factor, the mega corps, the Commoner's DIY culture. It
+provides very nice aesthetics, too, especially for the urban part and the
+contingency of corporeality.
 
-Mushrooms are one of the most used organic ingredients since the big Climate Crisis.
-Mushrooms & Algae are the only ingredients left for food, often used for fabric, mattresses, and other organic products.
-Some mushrooms have exceeded their earlier limits of growth a lot, when so much dead organic material lay around for them to exploit.
-Since then some very big exemplars are standing around in nature.
-Mushrooms and Algae could be one day the foundation of a new, directed evolution, which could ensure a new biodiversity.
+Mushrooms are one of the most used organic ingredients since the big Climate
+Crisis. Mushrooms & Algae are the only ingredients left for food, often used
+for fabric, mattresses, and other organic products. Some mushrooms have
+exceeded their earlier limits of growth a lot, when so much dead organic
+material lay around for them to exploit. Since then some very big exemplars
+are standing around in nature. Mushrooms and Algae could be one day the
+foundation of a new, directed evolution, which could ensure a new biodiversity.
 
-Feudalism would be a nice driver for clothing and style.
-Also the hierarchies, the boundaries, the communities have some feudal implications (especially the rurals).
-Habermas talks about refeudalization in context of education chances - which are inherited more and more.
-Intellectual Wageslaves (Downtown Jobs) earn more than Factory Wageslaves, and they earn more than Punks.
+Feudalism would be a nice driver for clothing and style. Also the hierarchies,
+the boundaries, the communities have some feudal implications (especially the
+rurals). Habermas talks about refeudalization in context of education chances
+- which are inherited more and more. Intellectual Wageslaves (Downtown Jobs)
+  earn more than Factory Wageslaves, and they earn more than Punks.
 Parcellation of Souvereignty - different Polices in different quarters?
 
 The world is separated in several areas.
@@ -401,13 +419,14 @@ It would be nice if people were required to travel a lot between them.
 
 #### Downtown
 
-Skyscrapers have bridges between them. They look a bit like strongholds maybe? Arrow slit windows?
-At the top are the penthouses, where the Execs reside. Each Exec owns a Skyscraper.
-Offices for non-industrial jobs are in the Skyscrapers:
-IT, journalism, marketing, censors, everything which is just sitting in front of a screen. Also Doctors and Nurses.
+Skyscrapers have bridges between them. They look a bit like strongholds maybe?
+Arrow slit windows. At the top are the penthouses, where the Execs reside.
+Each Exec owns a Skyscraper. Offices for non-industrial jobs are in the
+Skyscrapers: IT, journalism, marketing, censors, everything which is just
+sitting in front of a screen. Also Doctors and Nurses.
 
-For buying rare items, you have to go to Downtown's shopping centers.
-Security is tight, many people are here. Aesthetics resemble churches.
+For buying rare items, you have to go to Downtown's shopping centers. Security
+is tight, many people are here. Aesthetics resemble churches.
 
 Living Costs:
 * A coffin hotel costs 100€ a night.
@@ -427,11 +446,11 @@ Living Costs:
 
 The factories in the Slums are all abandoned.
 
-The slums are mostly for dwelling, containers-4-rent make up most of the buildings.
-Stores supply the inhabitants, night clubs provide fun.
+The slums are mostly for dwelling, containers-4-rent make up most of the
+buildings. Stores supply the inhabitants, night clubs provide fun.
 
-There is not as much police here, so it's easier to squat here than in other areas.
-(Except the players want to camp in the Slums ofc)
+There is not as much police here, so it's easier to squat here than in other
+areas. (Except the players want to camp in the Slums ofc)
 
 Living Costs:
 * A container-4-rent costs 2000€ a month.
@@ -441,7 +460,8 @@ Living Costs:
 
 Prevalence of using Mushrooms as food, building, and clothing material.
 
-The people are living in small huts, a mixture of them being quite old, some built off trash, some off mushrooms.
+The people are living in small huts, a mixture of them being quite old, some
+built off trash, some off mushrooms.
 
 Each village has a bus station, but not much more. Someone sells food.
 
@@ -452,7 +472,8 @@ Living Costs:
 
 ### Feudalism
 
-Feudalist aesthetics could be used to enrich cyberpunk, It doesn't make that much sense to render feudal society to the game, though.
+Feudalist aesthetics could be used to enrich cyberpunk, It doesn't make that
+much sense to render feudal society to the game, though.
 
 Clothing
 * Hierarchy shows itself in Clothing
@@ -465,41 +486,43 @@ Clothing
 
 ### Mushrooms and the Climate Catastrophe
 
-The bees died out, something with pesticides killed most of the surviving plants.
-Soy deliveries died out, animals couldn't be fed anymore.
-Hunting lived up for a short time, until wildlife was pretty much extinct.
-The sea collapsed from trash, but several Algae species could be saved.
-Algae are cultivated in artificial tanks.
-Mushrooms are dwelling on the dead organic matter everywhere, and on dead algae.
+The bees died out, something with pesticides killed most of the surviving
+plants. Soy deliveries died out, animals couldn't be fed anymore. Hunting
+lived up for a short time, until wildlife was pretty much extinct. The sea
+collapsed from trash, but several Algae species could be saved. Algae are
+cultivated in artificial tanks. Mushrooms are dwelling on the dead organic
+matter everywhere, and on dead algae.
 
-Mushrooms and Algae are next to steel and plastic the mostly used ingredients for everything.
-Animals are largely extinct, the last species live off mankind's trash and can not be domesticated.
+Mushrooms and Algae are next to steel and plastic the mostly used ingredients
+for everything. Animals are largely extinct, the last species live off
+mankind's trash and can not be domesticated.
 
-Some people believe that our sins are responsible for the Climate Catastrophe and turn to god.
+Some people believe that our sins are responsible for the Climate Catastrophe
+and turn to god.
 
-There are several kinds of mushrooms, some are very stable, some formable (for fabric), some tasty.
-Buildings are built by putting spores to a foundation, adding nutrition - and waiting.
-More kinds of mushrooms can be cultivated.
+There are several kinds of mushrooms, some are very stable, some formable (for
+fabric), some tasty. Buildings are built by putting spores to a foundation,
+adding nutrition - and waiting. More kinds of mushrooms can be cultivated.
 
-All in all there is no lack of "industrial" resources, but rather of organic resources.
+All in all there is no lack of "industrial" resources, but rather of organic
+resources.
 
 ### Characters
 
 #### Media Speaker
 
-Announces changes to the public.
-Generally is defending the status quo.
+Announces changes to the public. Generally is defending the status quo.
 
 #### Punk Band
 
-Sings Songs against the Police which sell quite well.
-Expensive to employ, but enhances every demonstration/party.
+Sings Songs against the Police which sell quite well. Expensive to employ, but
+enhances every demonstration/party.
 
 #### Preacher
 
-Makes humanity responsible for Climate Crisis - punishment by god.
-Promotes that we need to turn to god - hard work can resolve our sins.
-Many uneducated are following him.
+Makes humanity responsible for Climate Crisis - punishment by god. Promotes
+that we need to turn to god - hard work can resolve our sins. Many uneducated
+are following him.
 
 ## NPCs
 
@@ -547,9 +570,9 @@ These depend on where your life modules lie and with which people they coincide.
 
 ### Why do I play?
 
-There is not a real goal in the game, not a real motivation yet.
-Is the fate of the character and their society interesting enough? 
-depends on the inscenation maybe.
+There is not a real goal in the game, not a real motivation yet. Is the fate
+of the character and their society interesting enough. depends on the
+inscenation maybe.
 
 If Transformation of Capitalism is the goal - how can 
 1. the single player have influence on this goal?
@@ -560,7 +583,8 @@ Motivation arises from
 2. the goal
 3. or the way of reaching it.
 
-Everything else is related to this: subsystems of the game, roles, classes, minigames.
+Everything else is related to this: subsystems of the game, roles, classes,
+minigames.
 
 ### Ideas
 
