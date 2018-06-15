@@ -145,7 +145,7 @@ and for 4h each.
 * Delivery: bringing packages to houses
 * Tailor: refine trash to cloth, puzzle it to more and more complicated clothing
 * Vendor: putting goods in the shelves, selling the goods (ppl will be glad when this gets automated), Vendors suffer from monopolization
-* Control Ads: rate Ads if they are nice, sort out malicious ones.
+* Control Ads: rate Ads whether they are compliant, sort out malicious ones.
 * Censorship: review posts on fakebook, posts are double-checked
 * Security: Control the documents of people coming in (papers please?), beat them up if they aren't allowed to be here
 * Police: use surveillance, beat and lock up perpetrators of crimes, undercover cops
