@@ -526,6 +526,11 @@ Makes humanity responsible for Climate Crisis - punishment by god. Promotes
 that we need to turn to god - hard work can resolve our sins. Many uneducated
 are following him.
 
+#### Robin Wood
+
+Famous organized crime boss. Has a website with crime highscore - you only get
+as many highscore points as you donate to the poor.
+
 ## NPCs
 
 ### Dialogue
