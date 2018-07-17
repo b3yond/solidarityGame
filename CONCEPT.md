@@ -54,9 +54,9 @@ sustains themself. They work just enough to pay their rent, not a bit more.
 
 The Interface would be a browser: 
 * one window displays the view of the player (ego-perspective, mini-games, information HUD)
-* one window displays a mastodon instance which displays the ingame fediverse, but also connects to IRL fediverses,
+* one window displays a mastodon instance which displays the ingame fediverse, but also connects to RL fediverses,
 * one window displays the fakebook, ingame public social network + messenger.
-* other windows are used for links created in the game itself, maybe being displayed on wordpress instances.
+* other windows are used for links created in the game itself, maybe being displayed on wordpress/hugo instances.
 
 ### Gameplay
 
@@ -71,6 +71,7 @@ Producing
 * Something not entirely boring maybe? Minigames where you can get better with experience, but which are also diverse
 * Build, purchase or give away machines for automation, so you can quit doing that bullshit and start with other stuff
 * you can build networks which can sustain other new Commons projects. Just connect with people over mastodon.
+* You have to work the full time, or you can violate strike law. But how much you earn depends on how good you are.
 * Commoners Production minigames could include cooperation elements.
 * Surplus has negative consequences? Your avatar gets uglier? lol. taxes?
 * How do you get a market? Shopping infrastructure
@@ -261,6 +262,7 @@ Software
 * cryptoMSG
 * Blogs
 * Cryptocoin
+* Reverse Engineering (allows to use Corporate Research)
 * A Game to promote solidary economies (very meta, but why not?)
 
 Hardware
