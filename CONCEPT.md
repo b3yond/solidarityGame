@@ -593,7 +593,7 @@ Motivation arises from
 Everything else is related to this: subsystems of the game, roles, classes,
 minigames.
 
-### Ideas
+## Ideas
 
 universal snitch system
 
@@ -602,3 +602,15 @@ Teamwork in minigames
 can players participate in religion?
 
 Refugees
+
+Does society transform in a mushroom way? We had tree-like societies &
+hierarchies - Commoners could organize more like metastases (and identify with
+it).
+
+Climate art
+* At least insects don't bother us anymore
+* bug-lover74
+* nature left us, science save us
+* we are mushrooms, we eat us through capitalism, and drop our spores. If we 
+  are eaten, we surrender - others will do our will
+
