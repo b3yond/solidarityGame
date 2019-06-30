@@ -7,8 +7,6 @@ implemented in this order:
 
 **Character Class: Wageslave**
 
-**Character Class: Precarion**
-
 Running Costs
 * Mobility
 * Housing
@@ -30,6 +28,8 @@ Minigames
 
 1 Tag im Leben / Tutorial
 
+Character Attributes
+
 Climate Catastrophe
 * Vermittlung der Backgroundstory?
 
@@ -40,6 +40,8 @@ Public Figures (Premium NPCs)
 Relationships with NPCs
 
 ## Interface: Plan Production
+
+**Character Class: Precarion**
 
 Found an organization
 
